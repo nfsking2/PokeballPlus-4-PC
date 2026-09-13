@@ -30,14 +30,15 @@
 4. 双模式切换逻辑：按住红色按键+摇晃切换两种鼠标模式；直接摇晃切换手柄/鼠标模式
 5. 多档位节电超时，超时自动断连设备强制休眠
 6. 自动摇杆校准功能，转动摇杆即可自动居中修正漂移
-7. 中英双语界面，支持即时切换
-8. 配置文件持久化保存用户设置
-9. 修复并优化原项目多处潜在 bug 与设计问题
+7. 为模式切换操作增加 Windows 原生 Toast 通知机制，切换成功后自动弹出提示，用户无需手动操作即可确认当前状态
+8. 中英双语界面，支持即时切换
+9. 配置文件持久化保存用户设置
+10. 修复并优化原项目多处潜在 bug 与设计问题
 
 ### 使用说明
 1. 安装 .NET 8.0 Runtime 与 ViGEm Bus Driver 驱动
 2. 解压压缩包，运行主程序 exe
-3. 通过蓝牙连接 Poké Ball Plus 控制器，软件将自动识别适配
+3. 通过蓝牙连接 Poké Ball Plus 控制器，软件将自动识别设备
 
 [⬆ 返回顶部](#pokeballplus-for-pc)
 
@@ -60,9 +61,10 @@ This software is a secondary development based on the [Pokeballplus4Windows](htt
 4. Dual mode switching: hold red button + shake to toggle two mouse modes; shake directly to switch gamepad/mouse mode
 5. Configurable power-saving timeout, auto disconnect and force sleep after idle
 6. Automatic joystick calibration — rotate the stick to auto-center and correct drift
-7. Bilingual (Chinese / English) interface with on-the-fly switching
-8. Configuration file for persistent user settings
-9. Fixed and optimized multiple potential bugs and design flaws in the original project
+7. Added native Windows Toast notification for mode switching operations. A pop-up prompt appears automatically upon successful switching, so users can confirm the operation status without checking it manually
+8. Bilingual (Chinese / English) interface
+9. Configuration file for persistent user settings
+10. Fixed and optimized multiple potential bugs and design flaws in the original project
 
 ### Usage
 1. Install .NET 8.0 Runtime and ViGEm Bus Driver
