@@ -17,7 +17,7 @@
 ## 简体中文
 
 ### 项目简介
-本软件基于 [Pokeballplus4Windows](https://github.com/原项目地址) 项目（MIT 许可）二次开发，基于 C# / .NET 8.0 构建，可将任天堂 Switch 精灵球控制器转换为 Windows 平台的 XInput 游戏手柄与高精度空气鼠标。
+本软件基于 [Pokeballplus4Windows]([https://github.com/原项目地址](https://github.com/rna0/pokeball-plus-4-windows)) 项目（MIT 许可）二次开发，基于 C# / .NET 8.0 构建，可将任天堂 Switch 精灵球控制器转换为 Windows 平台的 XInput 游戏手柄与高精度空气鼠标。
 
 ### 运行依赖
 - .NET 8.0 Desktop Runtime 运行库
@@ -48,7 +48,7 @@
 ## English
 
 ### Introduction
-This software is a secondary development based on the [Pokeballplus4Windows](https://github.com/原项目地址) project (MIT License), built with C# / .NET 8.0. It converts the Nintendo Switch Poké Ball Plus controller into an XInput gamepad and high-precision air mouse for Windows.
+This software is a secondary development based on the [Pokeballplus4Windows]([https://github.com/原项目地址](https://github.com/rna0/pokeball-plus-4-windows)) project (MIT License), built with C# / .NET 8.0. It converts the Nintendo Switch Poké Ball Plus controller into an XInput gamepad and high-precision air mouse for Windows.
 
 ### Requirements
 - .NET 8.0 Desktop Runtime
