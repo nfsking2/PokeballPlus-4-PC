@@ -36,7 +36,7 @@
 10. 修复并优化原项目多处潜在 bug 与设计问题
 
 ### 使用说明
-1. 安装 .NET 8.0 Runtime 与 ViGEm Bus Driver 驱动
+1. 安装 .NET 8.0 Desktop Runtime 与 ViGEm Bus Driver 驱动
 2. 解压压缩包，运行主程序 exe
 3. 通过蓝牙连接 Poké Ball Plus 控制器，软件将自动识别设备
 
@@ -67,7 +67,7 @@ This software is a secondary development based on the [Pokeballplus4Windows](htt
 10. Fixed and optimized multiple potential bugs and design flaws in the original project
 
 ### Usage
-1. Install .NET 8.0 Runtime and ViGEm Bus Driver
+1. Install .NET 8.0 Desktop Runtime and ViGEm Bus Driver
 2. Extract the package and run the executable
 3. Connect your Poké Ball Plus via Bluetooth; it will be automatically recognized
 
